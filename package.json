@@ -1,6 +1,6 @@
 {
   "name": "stepfunctions-testing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Step Functions testing library.",
   "main": "dist/index.js",
   "scripts": {
