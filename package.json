@@ -1,0 +1,21 @@
+{
+  "name": "stepfunctions-testing",
+  "version": "0.1.0",
+  "description": "Step Functions testing library.",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "build": "tsc"
+  },
+  "keywords": [
+    "step functions",
+    "stepfunctions"
+  ],
+  "author": {
+    "name": "Ken Fukuyama"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
